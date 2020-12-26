@@ -1,1 +1,4 @@
 config.txt
+data/
+script.js
+*.exe
